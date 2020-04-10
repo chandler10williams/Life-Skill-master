@@ -1,0 +1,7 @@
+@start
+  *say
+    Hello World
+
+@pause
+    *say 
+        Thanks for playing!
